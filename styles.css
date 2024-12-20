@@ -249,6 +249,7 @@ li {
     border-radius: 30px;
     transition: 500ms;
     text-decoration: none;
+    margin-right: 1px;
 }
 
 .card a:hover {
