@@ -387,6 +387,11 @@ aside h2 {
     margin-top: 100px;
 }
 
+#curriculo {
+    background-color: white;
+    border-radius: 25px;
+}
+
 .formal-social img {
     width: 40px;
 
@@ -394,17 +399,9 @@ aside h2 {
 
 .home-social {
     display: flex;
-    gap: 10px;
+    gap: 50px;
     align-items: center;
     justify-content: center;
     font-size: 10px;
 }
 
-a {
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-    color: white;
-    background-color: #191919;
-    border-radius: 10px;
-}
