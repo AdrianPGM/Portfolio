@@ -146,12 +146,12 @@ li {
 
     0%,
     50% {
-        content: 'Programador Full-Stack';
+        content: 'Programador Front-End';
     }
 
     51%,
     100% {
-        content: 'Programador Full-Stack';
+        content: 'Programador Front-End';
     }
 }
 
